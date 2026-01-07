@@ -743,3 +743,11 @@ nav a:hover{
 .menu-toggle span {
     background-color: #b07a7a; /* tu color Neareni */
 }
+
+
+html, body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+
