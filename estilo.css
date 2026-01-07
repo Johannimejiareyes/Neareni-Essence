@@ -385,7 +385,7 @@ nav a:hover{
 }
 
 .product-card:hover {
-  transform: translateY(-9px);
+  transform: translateY(-19px);
   box-shadow: 0px 0px 0px 3px var(--paraletra);
 }
 
@@ -750,4 +750,5 @@ html, body {
     overflow-x: hidden;
 }
 
+/*ANIMACION*/
 
